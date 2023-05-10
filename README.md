@@ -1,6 +1,6 @@
 # Exploring the Top 50 Bars Around the World in 2022
 
-(https://public.tableau.com/app/profile/nikko.bronzan/viz/TheWorlds50BestBars/50BestBars)[Tableau Link]
+[Tableau Link](https://public.tableau.com/app/profile/nikko.bronzan/viz/TheWorlds50BestBars/50BestBars)
 
 ## Introduction
 
